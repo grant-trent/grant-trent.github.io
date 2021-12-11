@@ -1,14 +1,14 @@
 body {
-    background-color: gold;
+    background-color: orange;
 }
   
 h1 {
-  color: navy;
+  color: white;
   margin-left: 20px;
 }
 
 #myDiv{
-  background-color: grey;
+  background-color: black;
   border-style: dotted;
-  border-color: blue;
+  border-color: red;
 }
